@@ -1,0 +1,19 @@
+{
+  "Alliance de Credit et d’Epargne pour la Production": {
+    "logo": "assets/img.png",
+    "name": "Alliance de Credit et d’Epargne pour la Production (ACEP)",
+    "location": "Avenue Bourguiba x Blvd Dial DIOP",
+    "email": "acep@acepsenegal.com",
+    "website": "http://www.acepsenegal.com/",
+    "phone1": "221338697550/65",
+    "phone2": "221338252935"
+  },
+  "Agence Conseil International": {
+    "logo": "assets/img_1.png",
+    "name": "Agence Conseil International (ACI)",
+    "location": "Rue Mohamed V, angle Félix Faure face à ADA voyage Dakar Senegal",
+    "email": "",
+    "website": "https://aci-assurances.com/",
+    "phone1": "221338220717"
+  }
+}
