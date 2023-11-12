@@ -41,5 +41,13 @@
     "website": "https://askiaassurances.net/ ",
     "phone1": "221338894041",
     "phone2": "221776692222"
+  },
+  "Assurance la Sécurité Sénégalaise": {
+    "logo": "assets/img_4.png",
+    "name": "Assurance la Sécurité Sénégalaise",
+    "location": "Dakar, Rue le Dantec X Pierre Millon",
+    "email": "ass.dk@ass-assurances.sn",
+    "website": "https://lasecu-assurances.sn/",
+    "phone1": "221338490599",
   }
 }
