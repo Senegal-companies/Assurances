@@ -15,5 +15,22 @@
     "email": "",
     "website": "https://aci-assurances.com/",
     "phone1": "221338220717"
+  },
+  "Allianz Sénégal Assurances": {
+    "logo": "assets/img_2.png",
+    "name": "Allianz Sénégal Assurances",
+    "location": "Dakar, Senegal",
+    "email": "",
+    "website": "https://www.allianz.sn/contact.html",
+    "phone1": ""
+  },
+  "Amsa Assurances Sénégal": {
+    "logo": "assets/img_23.png",
+    "name": "Amsa Assurances Sénégal",
+    "location": "43, Avenue Hassan II, Dakar, B.P. 225 Dakar",
+    "email": "contact-sn@amsaassurances.com",
+    "website": "https://amsaassurances.com/web3/",
+    "phone1": "221338393600",
+    "phone2": "221338393601"
   }
 }
