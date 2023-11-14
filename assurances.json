@@ -49,5 +49,22 @@
     "email": "ass.dk@ass-assurances.sn",
     "website": "https://lasecu-assurances.sn/",
     "phone1": "221338490599",
+  },
+  "Assurance Facile": {
+    "logo": "assets/img_5.png",
+    "name": "Assurance Facile",
+    "location": "16 rue Victor Hugo, Dakar",
+    "email": "contact@assurancefacile.net",
+    "website": "https://assurancefacile.net/",
+    "phone1": "221338211418"
+  },
+  "ASSUR CONSEILS MARSH": {
+    "logo": "assets/img_6.png",
+    "name": "ASSUR CONSEILS MARSH",
+    "location": "Place de l'indépendance, Immeuble SDIH, 6e Etage BP: 21880 Dakar-Ponty - DAKAR",
+    "email": "",
+    "website": "",
+    "phone1": "221338893600",
+    "phone2": "221338223830"
   }
 }
